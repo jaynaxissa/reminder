@@ -1,0 +1,28 @@
+html {
+    background-color: #FEFBEB;
+}
+
+.wrapper {
+    
+    width: 671px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    background-color: #FEFBEB;
+}
+
+.addButton{
+    position: sticky;
+    bottom: 10px;
+    margin-left: 300px;
+    background-color: white;
+    border: none;
+    width: 50px;
+    height: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 8px 0 rgb(90 100 105 / 16%);
+   
+}

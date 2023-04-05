@@ -1,0 +1,21 @@
+.cards{
+    padding: 0em;
+}
+
+.cardsContainer{   
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px
+}
+
+.cardsWrapper{
+    position: relative;
+    margin-left: auto; 
+    margin-right: auto;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+}
